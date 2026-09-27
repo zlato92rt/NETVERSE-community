@@ -6,6 +6,7 @@ NETVERSE is building a network for shared compute resources, AI workloads and a 
 
 ## What is public here
 
+- [Public roadmap](ROADMAP.md)
 - Community updates and roadmap
 - Interface and product concepts
 - Documentation and contribution guidance
