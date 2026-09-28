@@ -18,6 +18,14 @@ NETVERSE is currently in active development. Follow the public build as we expan
 
 Development updates shared here are informational and may change as the platform evolves. Production infrastructure, credentials, payment security and core network logic remain private.
 
+## Compute Contributor Closed Beta
+
+We are recruiting a small group of technical early contributors to validate NETVERSE's real resource-sharing path. The target model allocates **20% of attributable revenue to the resource contributor and 80% to NETVERSE**, only after real work is completed and server-validated.
+
+**[Read the closed-beta requirements and join the contributor queue →](COMPUTE_CLOSED_BETA.md)**
+
+This is an early-access testing program, not an investment product or a promise of income. Production payment-to-compute activation remains gated by security, build and real-device validation.
+
 ## Public launch hub
 
 - [Public roadmap](ROADMAP.md)
