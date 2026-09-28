@@ -18,13 +18,15 @@ NETVERSE is currently in active development. Follow the public build as we expan
 
 Development updates shared here are informational and may change as the platform evolves. Production infrastructure, credentials, payment security and core network logic remain private.
 
-## What is public here
+## Public launch hub
 
 - [Public roadmap](ROADMAP.md)
-- Community updates and roadmap
+- [Public status](STATUS.md)
+- [FAQ](FAQ.md)
+- [GitHub Discussions](https://github.com/zlato92rt/NETVERSE-community/discussions)
+- [Development Milestone #1 — Public Foundation](https://github.com/zlato92rt/NETVERSE-community/releases/tag/milestone-01)
 - Interface and product concepts
-- Documentation and contribution guidance
-- Discussions and feedback
+- Documentation, contribution guidance and feedback
 
 The production NETVERSE platform, backend services, private infrastructure, credentials, payment security and core network logic remain private.
 
