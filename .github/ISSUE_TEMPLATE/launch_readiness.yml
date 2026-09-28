@@ -1,0 +1,50 @@
+name: Public launch readiness gap
+description: Report a public process, documentation or onboarding gap relevant to launch readiness.
+title: "[Launch readiness] "
+labels:
+  - launch-readiness
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is for public launch-process gaps only. Do not post private infrastructure evidence or security vulnerabilities.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Readiness area
+      options:
+        - Documentation
+        - Onboarding
+        - Community support
+        - Public status communication
+        - Privacy / terms / acceptable-use communication
+        - Accessibility
+        - Other public launch process
+    validations:
+      required: true
+  - type: textarea
+    id: gap
+    attributes:
+      label: What is missing or unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Why does this matter for launch?
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: What would "resolved" look like?
+      description: Give a public, verifiable acceptance condition where possible.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety check
+      options:
+        - label: This report contains no secrets, credentials, private keys, tokens, proprietary production code or vulnerability details.
+          required: true
