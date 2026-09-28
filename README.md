@@ -18,6 +18,14 @@ NETVERSE is currently in active development. Follow the public build as we expan
 
 Development updates shared here are informational and may change as the platform evolves. Production infrastructure, credentials, payment security and core network logic remain private.
 
+## Early Customer Access
+
+We are also recruiting the first users who want to validate the real paid Premium/AI Agent path and tell us what result would make NETVERSE worth paying for.
+
+**[Join the early-customer queue →](https://github.com/zlato92rt/NETVERSE-community/issues/3)**
+
+No demo purchase or simulated revenue is counted as a customer. Payment is requested only when a real service offer is available.
+
 ## Compute Contributor Closed Beta
 
 We are recruiting a small group of technical early contributors to validate NETVERSE's real resource-sharing path. The target model allocates **20% of attributable revenue to the resource contributor and 80% to NETVERSE**, only after real work is completed and server-validated.
