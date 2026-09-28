@@ -1,3 +1,10 @@
+## Join the NETVERSE community
+
+[Join our official Discord](https://discord.gg/CUADBb3ht)
+
+
+
+
 # NETVERSE Community
 
 Welcome to the public community, interface and documentation hub for **NETVERSE**.
