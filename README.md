@@ -1,3 +1,5 @@
+![NETVERSE — Connect. Compute. Create.](assets/wide_cinematic_dark_sci_fi_tech_banner_hero_image.png)
+
 # NETVERSE Community
 
 Welcome to the public community, interface and documentation hub for **NETVERSE**.
