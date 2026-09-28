@@ -1,15 +1,20 @@
-## Join the NETVERSE community
-
-[Join our official Discord](https://discord.gg/CUADBb3ht)
-
-
-
-
 # NETVERSE Community
 
 Welcome to the public community, interface and documentation hub for **NETVERSE**.
 
 NETVERSE is building a network for shared compute resources, AI workloads and a creator ecosystem. This repository contains only public-facing materials: community information, interface concepts, documentation and collaboration guidance.
+
+## Join the NETVERSE community
+
+- **X:** [@NETVERSECOMPANY](https://x.com/NETVERSECOMPANY)
+- **Discord:** [Join our official Discord](https://discord.gg/CUADBb3ht)
+- **GitHub:** Follow this repository for public roadmap, documentation and community updates.
+
+## Follow the NETVERSE build
+
+NETVERSE is currently in active development. Follow the public build as we expand the community, documentation and product foundations on the path toward public launch.
+
+Development updates shared here are informational and may change as the platform evolves. Production infrastructure, credentials, payment security and core network logic remain private.
 
 ## What is public here
 
