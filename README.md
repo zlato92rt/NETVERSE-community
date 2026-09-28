@@ -22,10 +22,12 @@ Development updates shared here are informational and may change as the platform
 
 - [Public roadmap](ROADMAP.md)
 - [Public status](STATUS.md)
+- [Launch readiness checklist](LAUNCH_CHECKLIST.md)
 - [FAQ](FAQ.md)
 - [GitHub Discussions](https://github.com/zlato92rt/NETVERSE-community/discussions)
 - [Development Milestone #1 — Public Foundation](https://github.com/zlato92rt/NETVERSE-community/releases/tag/milestone-01)
 - Interface and product concepts
+- [Community triage guide](TRIAGE.md)
 - Documentation, contribution guidance and feedback
 
 The production NETVERSE platform, backend services, private infrastructure, credentials, payment security and core network logic remain private.
