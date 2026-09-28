@@ -17,6 +17,10 @@ Thank you for helping NETVERSE grow.
 3. Do not publish security vulnerabilities in public issues.
 4. Keep proposals focused and explain the user benefit.
 
+## Public issue workflow
+
+Use the available issue templates for reproducible bugs, feature/UI ideas, documentation/community requests and public launch-readiness gaps. See [TRIAGE.md](TRIAGE.md) for how public reports are handled and [LAUNCH_CHECKLIST.md](LAUNCH_CHECKLIST.md) for the high-level readiness gates.
+
 ## Scope
 
 This public repository is for community, documentation and interface collaboration. The NETVERSE production backend, private infrastructure and core network logic are not published here.
