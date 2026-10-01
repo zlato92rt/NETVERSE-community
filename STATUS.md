@@ -1,52 +1,72 @@
 # NETVERSE Public Status
 
-**Project stage:** Active development — pre-launch  
-**Public milestone:** Development Milestone #1 — Public Foundation  
-**Last updated:** 2026-09-28
+**Project stage:** advanced development — pre-launch  
+**Last updated:** 2026-10-02
 
-This page is a public project-status summary. It is not a real-time production uptime dashboard and does not expose private infrastructure.
+NETVERSE is **not yet represented as publicly launched or production-ready**. This page summarizes verified pre-launch product foundations without exposing private infrastructure, credentials or security-sensitive implementation details.
 
-## Public community layer
+## Public presence
 
 | Area | Status |
 | --- | --- |
-| Community repository | Available |
-| Public roadmap | Available |
+| Public community repository | Available |
+| Launch waitlist | Open |
+| Early-customer queue | Open |
+| Compute contributor closed-beta queue | Open |
+| Investor & partner brief | Available |
+| Public roadmap / FAQ / launch checklist | Available |
 | GitHub Discussions | Available |
-| Bug and feature request templates | Available |
-| Contribution guidance | Available |
-| Responsible security guidance | Available |
-| X community channel | Available |
-| Discord community channel | Available |
-| Public FAQ | Available |
+| X and Discord channels | Available |
 
-## Product readiness
+## Verified pre-launch foundations
 
-NETVERSE is **not yet represented as publicly launched or production-ready**.
+The private production codebase has automated build, migration, security/integrity and PostgreSQL end-to-end checks around major foundations including:
 
-The public roadmap identifies the following work before public launch:
+- account authentication, email verification and device identity;
+- verified payment checkout and entitlement creation;
+- Premium metering;
+- paid AI-agent access and reviewed publisher/version lifecycle;
+- BuilderZone marketplace ownership and settlement foundations;
+- trusted economic audit and financial integrity checks;
+- consent-based distributed-compute foundations;
+- Android bounded compute worker foundations;
+- Support Center ticket lifecycle;
+- moderated Community Chat foundations;
+- source-linked Notifications;
+- referral attribution and qualification.
 
-- Independent security review and production hardening
-- Reliable node connectivity, retry behavior and observability
-- Isolated execution for contributed compute workloads
-- End-to-end payment verification before payments are enabled
-- Clear privacy, terms, acceptable-use and support processes
-- Public status and incident communication
+These are **pre-launch foundations**, not a claim that every product surface is complete or that the live public service is ready for unrestricted use.
 
-## Current public milestone
+## Distributed compute boundary
 
-[Development Milestone #1 — Public Foundation](https://github.com/zlato92rt/NETVERSE-community/releases/tag/milestone-01) establishes the public community and documentation foundation while core platform development continues privately.
+The Android compute path currently uses a deliberately bounded deterministic workload while device identity, consent, job delivery, local execution, validation and accounting are proven end-to-end.
 
-## Important boundaries
+Heartbeat/uptime alone is not treated as paid compute work. Arbitrary downloaded-code execution is not part of the current Android design.
 
-Production infrastructure, credentials, payment security and core network logic remain private.
+## What still gates public launch
 
-Public development information may change as the platform evolves. A feature appearing in documentation or on the roadmap should not be interpreted as a guarantee that it is already available in production.
+Major remaining gates include:
 
-## Follow progress
+- controlled real-device acceptance across the payment → consumption → authenticated compute → signed validation → accounting path;
+- independent security review and additional production hardening;
+- live deployment/release acceptance and observability;
+- privacy, terms, acceptable-use and support/legal launch review;
+- broader Android production UX and device validation;
+- production webhook/service operations and failure recovery;
+- launch-day support, incident communication and public onboarding.
 
-- [Roadmap](ROADMAP.md)
-- [FAQ](FAQ.md)
-- [Discussions](https://github.com/zlato92rt/NETVERSE-community/discussions)
+## Get involved
+
+- [Join the NETVERSE Launch Waitlist](https://github.com/zlato92rt/NETVERSE-community/issues/4)
+- [Early Customer Access](https://github.com/zlato92rt/NETVERSE-community/issues/3)
+- [Compute Contributor Closed Beta](COMPUTE_CLOSED_BETA.md)
+- [Investor & Partner Brief](INVESTOR_BRIEF.md)
+- [Public Roadmap](ROADMAP.md)
+- [Launch Checklist](LAUNCH_CHECKLIST.md)
+- [GitHub Discussions](https://github.com/zlato92rt/NETVERSE-community/discussions)
 - [X — @NETVERSECOMPANY](https://x.com/NETVERSECOMPANY)
 - [Discord](https://discord.gg/CUADBb3ht)
+
+## Important boundary
+
+Public development information may change as NETVERSE evolves. Production infrastructure, credentials, payment security and private core logic remain private.
