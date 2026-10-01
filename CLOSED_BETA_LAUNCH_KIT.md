@@ -43,7 +43,6 @@ Join: https://discord.gg/CUADBb3ht
 
 Public hub: https://github.com/zlato92rt/NETVERSE-community
 
-Live product preview: https://netverse-grid-live.base44.app
 
 ## Suggested community post
 
