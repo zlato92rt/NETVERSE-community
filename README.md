@@ -69,9 +69,22 @@ NETVERSE is being built from Bulgaria with global ambitions. We want conversatio
 
 For a private follow-up, join the Launch Waitlist and identify yourself as an investor, advisor, partner or media contact.
 
+## Grow NETVERSE with us
+
+NETVERSE is building its international community before public launch.
+
+- **Global growth plan:** [GLOBAL_PRELAUNCH_GROWTH.md](GLOBAL_PRELAUNCH_GROWTH.md)
+- **Ready-to-adapt social content:** [SOCIAL_CONTENT_PACK.md](SOCIAL_CONTENT_PACK.md)
+- **Ambassador & translation program:** [AMBASSADOR_PROGRAM.md](AMBASSADOR_PROGRAM.md)
+
+We are looking for people who can introduce NETVERSE to local AI, startup, developer, creator and technology communities without spam or exaggerated claims.
+
 ## Public launch hub
 
 - [Investor & Partner Brief](INVESTOR_BRIEF.md)
+- [Global pre-launch growth plan](GLOBAL_PRELAUNCH_GROWTH.md)
+- [Social content pack](SOCIAL_CONTENT_PACK.md)
+- [Ambassador & translation program](AMBASSADOR_PROGRAM.md)
 - [Public roadmap](ROADMAP.md)
 - [Public status](STATUS.md)
 - [Launch readiness checklist](LAUNCH_CHECKLIST.md)
