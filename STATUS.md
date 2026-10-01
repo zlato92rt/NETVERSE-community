@@ -17,6 +17,9 @@ NETVERSE is **not yet represented as publicly launched or production-ready**. Th
 | Public roadmap / FAQ / launch checklist | Available |
 | GitHub Discussions | Available |
 | X and Discord channels | Available |
+| Global ambassador / translation recruitment | Open |
+| Founding builder cohort | Open |
+| Media / newsletter / community partner interest | Open |
 
 ## Verified pre-launch foundations
 
@@ -61,6 +64,9 @@ Major remaining gates include:
 - [Early Customer Access](https://github.com/zlato92rt/NETVERSE-community/issues/3)
 - [Compute Contributor Closed Beta](COMPUTE_CLOSED_BETA.md)
 - [Investor & Partner Brief](INVESTOR_BRIEF.md)
+- [Global Ambassadors & Translators](https://github.com/zlato92rt/NETVERSE-community/issues/5)
+- [Founding Builder Cohort](https://github.com/zlato92rt/NETVERSE-community/issues/6)
+- [Media, Newsletters & Community Partners](https://github.com/zlato92rt/NETVERSE-community/issues/7)
 - [Public Roadmap](ROADMAP.md)
 - [Launch Checklist](LAUNCH_CHECKLIST.md)
 - [GitHub Discussions](https://github.com/zlato92rt/NETVERSE-community/discussions)
