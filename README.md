@@ -76,6 +76,7 @@ NETVERSE is building its international community before public launch.
 - **Global growth plan:** [GLOBAL_PRELAUNCH_GROWTH.md](GLOBAL_PRELAUNCH_GROWTH.md)
 - **Ready-to-adapt social content:** [SOCIAL_CONTENT_PACK.md](SOCIAL_CONTENT_PACK.md)
 - **Ambassador & translation program:** [AMBASSADOR_PROGRAM.md](AMBASSADOR_PROGRAM.md)
+- **Global platform expansion checklist:** [PLATFORM_EXPANSION_CHECKLIST.md](PLATFORM_EXPANSION_CHECKLIST.md)
 
 We are looking for people who can introduce NETVERSE to local AI, startup, developer, creator and technology communities without spam or exaggerated claims.
 
@@ -85,6 +86,7 @@ We are looking for people who can introduce NETVERSE to local AI, startup, devel
 - [Global pre-launch growth plan](GLOBAL_PRELAUNCH_GROWTH.md)
 - [Social content pack](SOCIAL_CONTENT_PACK.md)
 - [Ambassador & translation program](AMBASSADOR_PROGRAM.md)
+- [Platform expansion checklist](PLATFORM_EXPANSION_CHECKLIST.md)
 - [Public roadmap](ROADMAP.md)
 - [Public status](STATUS.md)
 - [Launch readiness checklist](LAUNCH_CHECKLIST.md)
