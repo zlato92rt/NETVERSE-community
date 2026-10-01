@@ -1,67 +1,113 @@
 ![NETVERSE — Connect. Compute. Create.](assets/wide_cinematic_dark_sci_fi_tech_banner_hero_image.png)
 
-# NETVERSE Community
+# NETVERSE
 
-Welcome to the public community, interface and documentation hub for **NETVERSE**.
+**AI agents, creator commerce and verified distributed compute — one platform.**
 
-NETVERSE is building a network for shared compute resources, AI workloads and a creator ecosystem. This repository contains only public-facing materials: community information, interface concepts, documentation and collaboration guidance.
+NETVERSE is building a Web + Android ecosystem where people can use paid AI services, creators can publish digital products and AI agents, and opted-in devices can contribute bounded compute work that is independently validated before any contributor revenue attribution is recorded.
 
-## Join the NETVERSE community
+> **Current stage:** advanced development / pre-launch.  
+> We share real milestones publicly, but we do not present demos, simulated transactions or waitlist members as customers or revenue.
 
-- **X:** [@NETVERSECOMPANY](https://x.com/NETVERSECOMPANY)
-- **Discord:** [Join our official Discord](https://discord.gg/CUADBb3ht)
-- **GitHub:** Follow this repository for public roadmap, documentation and community updates.
+## Join before launch
 
-## Follow the NETVERSE build
+The easiest way to follow NETVERSE closely is the **Launch Waitlist**:
 
-NETVERSE is currently in active development. Follow the public build as we expand the community, documentation and product foundations on the path toward public launch.
+**[Join the NETVERSE Launch Waitlist →](https://github.com/zlato92rt/NETVERSE-community/issues/4)**
 
-Development updates shared here are informational and may change as the platform evolves. Production infrastructure, credentials, payment security and core network logic remain private.
+Choose the role that fits you:
+- early adopter;
+- builder / creator;
+- compute contributor;
+- technology or distribution partner;
+- investor / advisor;
+- media / startup creator.
 
-## Early Customer Access
+## What we are building
 
-We are also recruiting the first users who want to validate the real paid Premium/AI Agent path and tell us what result would make NETVERSE worth paying for.
+### AI Agents
+Reviewed, versioned AI services with verified paid access and operator-controlled runtime configuration.
+
+### BuilderZone
+A creator marketplace for digital products and tools with explicit buyer ownership and settlement logic.
+
+### Premium + Payments
+Authoritative checkout, transaction attachment, chain verification and entitlement creation instead of simulated purchases.
+
+### Distributed Compute
+Consent-based Android compute with authenticated devices, signed job delivery and server-side validation.
+
+The first controlled workload is intentionally bounded and deterministic while the full device → job → execution → validation → accounting path is proven.
+
+### Community + Support
+Authenticated support tickets, moderated community chat, notifications and public launch infrastructure.
+
+## Product economics under development
+
+- **Distributed compute:** contributor 20% / NETVERSE 80% of attributable revenue, only after completed and independently validated work.
+- **BuilderZone:** builder 80% / NETVERSE 20%.
+
+Heartbeat or uptime alone is not paid work. These product economics are not an investment return promise.
+
+## Early access
+
+### Early Customer Access
+We are recruiting people who already pay for AI/productivity tools and are willing to validate the first real paid NETVERSE service.
 
 **[Join the early-customer queue →](https://github.com/zlato92rt/NETVERSE-community/issues/3)**
 
-No demo purchase or simulated revenue is counted as a customer. Payment is requested only when a real service offer is available.
+### Compute Contributor Closed Beta
+We are recruiting a small Android cohort to validate the controlled resource-sharing path on real devices.
 
-## Compute Contributor Closed Beta
+**[Read the requirements and apply →](COMPUTE_CLOSED_BETA.md)**
 
-We are recruiting a small group of technical early contributors to validate NETVERSE's real resource-sharing path. The target model allocates **20% of attributable revenue to the resource contributor and 80% to NETVERSE**, only after real work is completed and server-validated.
+## Investors, partners and advisors
 
-**[Read the closed-beta requirements and join the contributor queue →](COMPUTE_CLOSED_BETA.md)**
+NETVERSE is being built from Bulgaria with global ambitions. We want conversations with people who understand AI infrastructure, marketplaces, developer platforms, payments or distributed systems.
 
-This is an early-access testing program, not an investment product or a promise of income. Production payment-to-compute activation remains gated by security, build and real-device validation.
+**[Read the public Investor & Partner Brief →](INVESTOR_BRIEF.md)**
+
+For a private follow-up, join the Launch Waitlist and identify yourself as an investor, advisor, partner or media contact.
 
 ## Public launch hub
 
+- [Investor & Partner Brief](INVESTOR_BRIEF.md)
 - [Public roadmap](ROADMAP.md)
 - [Public status](STATUS.md)
 - [Launch readiness checklist](LAUNCH_CHECKLIST.md)
 - [FAQ](FAQ.md)
+- [Compute closed beta](COMPUTE_CLOSED_BETA.md)
+- [Community triage guide](TRIAGE.md)
+- [Contributing](CONTRIBUTING.md)
 - [GitHub Discussions](https://github.com/zlato92rt/NETVERSE-community/discussions)
 - [Development Milestone #1 — Public Foundation](https://github.com/zlato92rt/NETVERSE-community/releases/tag/milestone-01)
-- Interface and product concepts
-- [Community triage guide](TRIAGE.md)
-- Documentation, contribution guidance and feedback
 
-The production NETVERSE platform, backend services, private infrastructure, credentials, payment security and core network logic remain private.
+The production backend, credentials, payment security, private infrastructure and core network logic remain private.
+
+## Follow NETVERSE
+
+- **X:** [@NETVERSECOMPANY](https://x.com/NETVERSECOMPANY)
+- **Discord:** [NETVERSE Community](https://discord.gg/CUADBb3ht)
+- **GitHub:** star/watch this repository for public milestones and launch updates.
 
 ## Support NETVERSE
 
-Donations support the development and operation of NETVERSE.
+Donations are voluntary support for development and operation.
 
 **Ethereum network only**
 
 `0x9A996eac9727F4672e73c7b6b82f40ee248107bB`
 
-> Donations are voluntary contributions, not investments. They do not create ownership, profit rights, token rights or a promise of financial return. Always verify the network and address before sending.
+Donations are not investments and do not create ownership, profit rights, token rights or a promise of financial return. Always verify the network and address before sending.
 
 ## Contributing
 
-We welcome product feedback, UI ideas, documentation improvements and responsible security reports. Please do not submit secrets, private keys, access tokens or proprietary code.
+We welcome product feedback, UI ideas, documentation improvements, translations and responsible security reports. Do not submit private keys, API tokens, wallet seed phrases, credentials or proprietary code.
 
 ## Security
 
-Do not post security vulnerabilities publicly. Use GitHub's private security reporting tools when enabled, or contact the NETVERSE team through an official channel.
+Do not publish vulnerabilities in public issues. Use GitHub private security reporting when available or contact the team through an official NETVERSE channel.
+
+---
+
+**NETVERSE — Connect. Compute. Create.**
