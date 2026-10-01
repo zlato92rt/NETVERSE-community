@@ -49,10 +49,15 @@ Purpose:
 
 ### Product Hunt
 Owner action required for maker account and final launch scheduling.
+
+Do not use Product Hunt as a waitlist-only launch. Current Product Hunt guidance prioritizes products that people can actually explore/use, and recommends waiting when a product is only pre-launch. Prepare the assets now and schedule the real launch after usable access is open.
+
 Purpose:
 - launch-day discovery;
 - early adopter acquisition;
 - maker/community feedback.
+
+Promotion rule: ask people to visit/comment, not directly to upvote.
 
 ## Tier 2 — strong growth channels
 
@@ -64,6 +69,7 @@ Use community-specific technical discussions and feedback requests.
 ### Hacker News
 Use for substantial technical milestones, Show HN and engineering write-ups.
 Avoid routine promotional posts.
+The founder should write the final Hacker News submission personally; do not paste AI-generated copy.
 
 ### Indie Hackers
 Use for founder/build logs, experiments, metrics and market learning.
