@@ -80,6 +80,11 @@ NETVERSE is building its international community before public launch.
 
 We are looking for people who can introduce NETVERSE to local AI, startup, developer, creator and technology communities without spam or exaggerated claims.
 
+Public calls:
+- [Global Ambassadors & Translators](https://github.com/zlato92rt/NETVERSE-community/issues/5)
+- [Founding Builder Cohort](https://github.com/zlato92rt/NETVERSE-community/issues/6)
+- [Media, Newsletters & Community Partners](https://github.com/zlato92rt/NETVERSE-community/issues/7)
+
 ## Public launch hub
 
 - [Investor & Partner Brief](INVESTOR_BRIEF.md)
