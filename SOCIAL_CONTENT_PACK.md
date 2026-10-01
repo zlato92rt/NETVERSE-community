@@ -131,18 +131,19 @@ We would especially value feedback on anti-replay, job validation, contributor t
 
 https://github.com/zlato92rt/NETVERSE-community
 
-## Hacker News draft
+## Hacker News outline — founder must write the final post
 
-Title: Show HN: NETVERSE — AI agents, creator commerce and verified opt-in compute
+Do not copy/paste AI-generated text into Hacker News. HN guidelines ask users to write submissions themselves and not use the site primarily for promotion.
 
-NETVERSE is a pre-launch Web + Android platform we are building around three connected systems: paid AI agents, creator commerce and consent-based distributed compute.
+Founder-written structure:
+- Title idea: Show HN: NETVERSE — AI agents, creator commerce and verified opt-in compute
+- Explain in your own words why the three systems belong together.
+- Describe one technically interesting constraint, such as heartbeat not being paid work.
+- State what is actually implemented and what remains pre-launch.
+- Ask a specific technical question.
+- Link the original public NETVERSE source, not a promotional intermediary.
 
-The most important constraint is that online/heartbeat status is not paid work. Compute attribution is designed around completed workloads that are independently validated.
-
-We keep the production backend private, but publish product direction, launch status, beta recruitment and technical boundaries in a public community repository.
-
-We would value feedback from people who have built marketplaces, payment systems, agent platforms or distributed compute infrastructure.
-
+Public source:
 https://github.com/zlato92rt/NETVERSE-community
 
 ## Product Hunt teaser
