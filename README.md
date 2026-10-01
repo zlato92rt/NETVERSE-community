@@ -84,6 +84,7 @@ Public calls:
 - [Global Ambassadors & Translators](https://github.com/zlato92rt/NETVERSE-community/issues/5)
 - [Founding Builder Cohort](https://github.com/zlato92rt/NETVERSE-community/issues/6)
 - [Media, Newsletters & Community Partners](https://github.com/zlato92rt/NETVERSE-community/issues/7)
+- [30-Day Global Pre-Launch Campaign](https://github.com/zlato92rt/NETVERSE-community/issues/8)
 
 ## Public launch hub
 
